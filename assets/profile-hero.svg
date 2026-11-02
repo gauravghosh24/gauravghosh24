@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410" role="img" aria-labelledby="title">
+<title id="title">Gaurav Ghosh — Backend engineering, applied AI, and systems</title>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b37"/><stop offset=".52" stop-color="#17213d"/><stop offset="1" stop-color="#3d2463"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#8b5cf6" stop-opacity=".4"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+ <linearGradient id="accent"><stop stop-color="#61e5e9"/><stop offset=".5" stop-color="#a9a4ff"/><stop offset="1" stop-color="#e3b0ff"/></linearGradient>
+ <linearGradient id="orb" x2="1" y2="1"><stop stop-color="#69e7f0" stop-opacity=".23"/><stop offset="1" stop-color="#c08cff" stop-opacity=".08"/></linearGradient>
+ <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#b8c6ff" opacity=".13"/></pattern>
+ <clipPath id="clip"><rect width="1200" height="410" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+ <rect width="1200" height="410" fill="url(#bg)"/>
+ <circle cx="989" cy="180" r="340" fill="url(#glow)"/>
+ <rect width="1200" height="410" fill="url(#dots)"/>
+ <path d="M0 408H1200" stroke="url(#accent)" stroke-width="4"/>
+ <g font-family="Arial, Helvetica, sans-serif">
+  <rect x="48" y="40" width="213" height="30" rx="15" fill="#77e8ec" fill-opacity=".09" stroke="#77e8ec" stroke-opacity=".25"/>
+  <circle cx="64" cy="55" r="4" fill="#77e8ec"/>
+  <text x="79" y="60" fill="#a4f0f2" font-size="12" font-weight="700" letter-spacing="1.6">IDEAS → WORKING SOFTWARE</text>
+  <text x="45" y="158" font-size="78" font-weight="700" letter-spacing="-3" fill="#f2f5ff">Gaurav Ghosh<tspan fill="#9f9aff">.</tspan></text>
+  <text x="49" y="210" font-size="29" font-weight="500" fill="url(#accent)">Backend engineering. Applied AI. Systems.</text>
+  <text x="49" y="255" font-size="19" fill="#aebcd4">From algorithms and APIs to intelligent applications.</text>
+  <path d="M49 301H659" stroke="#8698ba" stroke-opacity=".24"/>
+  <text x="49" y="338" font-size="13" letter-spacing="1.7" fill="#e3e9f6">NIT SILCHAR</text>
+  <text x="185" y="338" font-size="13" fill="#657997">/</text>
+  <text x="209" y="338" font-size="13" letter-spacing="1.7" fill="#aebcd4">COMPUTER SCIENCE · 2027</text>
+  <text x="49" y="374" font-size="12" letter-spacing="1.4" fill="#8093b2">PYTHON · JAVA · C++</text>
+ </g>
+ <g transform="translate(926 185)">
+  <ellipse rx="186" ry="105" fill="none" stroke="#a5a6ff" stroke-opacity=".28" transform="rotate(-27)"/>
+  <ellipse rx="181" ry="96" fill="none" stroke="#68e6ed" stroke-opacity=".18" transform="rotate(33)"/>
+  <circle r="113" fill="url(#orb)" stroke="#b0c6ff" stroke-opacity=".45"/>
+  <g stroke="#a8c2ff" stroke-opacity=".35" fill="none" stroke-width="1.3">
+   <path d="M-51-101L10-65L78-82M10-65L-16 0L-93 64M-16 0L50 34L101-50M50 34L47 103M-111-22L-16 0M-93 64L-5 113M50 34L105 41"/>
+   <ellipse rx="59" ry="113" transform="rotate(25)"/><ellipse rx="113" ry="38" transform="rotate(-20)"/>
+  </g>
+  <g fill="#a9f3f4"><circle cx="10" cy="-65" r="4"/><circle cx="-16" cy="0" r="5"/><circle cx="50" cy="34" r="4"/><circle cx="-93" cy="64" r="3"/><circle cx="101" cy="-50" r="3"/></g>
+  <circle cx="-161" cy="61" r="5" fill="#9df4ef"/><circle cx="157" cy="-73" r="4" fill="#d1afff"/>
+ </g>
+ <g font-family="monospace" font-size="12">
+  <rect x="775" y="32" width="177" height="35" rx="9" fill="#17223d" stroke="#48617d"/><text x="792" y="54" fill="#99eff1">&lt;build /&gt;</text><text x="894" y="54" fill="#7993b2">01</text>
+  <rect x="898" y="315" width="239" height="53" rx="11" fill="#17223d" stroke="#736399"/><circle cx="918" cy="341" r="4" fill="#b7a5fa"/><text x="934" y="346" fill="#d8d8f8">algorithm → application</text>
+ </g>
+</g></svg>
