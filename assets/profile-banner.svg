@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Gaurav Ghosh — Backend, AI, and Systems</title>
+<desc id="desc">A navy and mint banner with a geometric field inspired by Voronoi diagrams.</desc>
+<defs>
+  <clipPath id="round"><rect width="1200" height="320" rx="18"/></clipPath>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#a0b8bf" opacity=".13"/></pattern>
+</defs>
+<g clip-path="url(#round)">
+  <rect width="1200" height="320" fill="#122830"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <path d="M0 318H1200" stroke="#bfe4ce" stroke-width="4"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="48" y="42" width="30" height="3" rx="1.5" fill="#bfe4ce"/>
+    <text x="92" y="49" font-size="14" letter-spacing="2.5" fill="#bfe4ce">BACKEND / AI / SYSTEMS</text>
+    <text x="46" y="146" font-size="66" font-weight="700" letter-spacing="-2.5" fill="#f5f4ec">Gaurav Ghosh</text>
+    <text x="49" y="192" font-size="22" fill="#b8cbd0">Turning algorithmic thinking into working software.</text>
+    <text x="49" y="267" font-size="14" letter-spacing="1.2" fill="#bfe4ce">COMPUTER SCIENCE</text>
+    <text x="252" y="267" font-size="14" fill="#6e919a">/</text>
+    <text x="275" y="267" font-size="14" letter-spacing="1.2" fill="#c0cfd2">NIT SILCHAR · 2027</text>
+  </g>
+  <g transform="translate(860 36)" stroke="#668f91" stroke-width="1.4" stroke-linejoin="round">
+    <path d="M0 40L76 0H177L268 44L290 143L222 239L95 252L6 189Z" fill="#1a3740"/>
+    <path d="M0 40L76 0L100 70L67 128L6 189Z" fill="#24454b"/>
+    <path d="M76 0H177L183 80L100 70Z" fill="#1b3a43"/>
+    <path d="M177 0L268 44L290 143L213 147L183 80Z" fill="#23434a"/>
+    <path d="M100 70L183 80L213 147L148 205L67 128Z" fill="#bfe4ce" stroke="#bfe4ce"/>
+    <path d="M6 189L67 128L148 205L95 252Z" fill="#19363f"/>
+    <path d="M148 205L213 147L290 143L222 239L95 252Z" fill="#28494e"/>
+    <g stroke="none" fill="#88aaa9">
+      <circle cx="43" cy="73" r="3"/><circle cx="133" cy="31" r="3"/><circle cx="235" cy="88" r="3"/>
+      <circle cx="45" cy="188" r="3"/><circle cx="217" cy="199" r="3"/>
+    </g>
+    <circle cx="139" cy="129" r="5" fill="#122830" stroke="none"/>
+    <circle cx="139" cy="129" r="16" fill="none" stroke="#122830" opacity=".3"/>
+  </g>
+</g>
+</svg>
