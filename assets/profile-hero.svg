@@ -14,7 +14,7 @@
  <rect width="1200" height="410" fill="url(#dots)"/>
  <path d="M0 408H1200" stroke="url(#accent)" stroke-width="4"/>
  <g font-family="Arial, Helvetica, sans-serif">
-  <rect x="48" y="40" width="213" height="30" rx="15" fill="#77e8ec" fill-opacity=".09" stroke="#77e8ec" stroke-opacity=".25"/>
+  <rect x="48" y="40" width="280" height="30" rx="15" fill="#77e8ec" fill-opacity=".09" stroke="#77e8ec" stroke-opacity=".25"/>
   <circle cx="64" cy="55" r="4" fill="#77e8ec"/>
   <text x="79" y="60" fill="#a4f0f2" font-size="12" font-weight="700" letter-spacing="1.6">IDEAS → WORKING SOFTWARE</text>
   <text x="45" y="158" font-size="78" font-weight="700" letter-spacing="-3" fill="#f2f5ff">Gaurav Ghosh<tspan fill="#9f9aff">.</tspan></text>
